@@ -12,4 +12,4 @@ our_data %>%
     )
   ) +
   geom_point() +
-  theme_bw()
+  theme_gray()
